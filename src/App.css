@@ -1,0 +1,17 @@
+.inter {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+}
+
+.kanit {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sideImg {
+  width: 265px;
+  height: 265px;
+  border-radius: 4px;
+}

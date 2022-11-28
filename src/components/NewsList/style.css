@@ -1,0 +1,20 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 45px;
+
+    width: 1120px;
+    height: 1152px;
+    
+}
+
+.newslist {
+    padding: 0px 0px 36px;
+    gap: 100px;
+    
+    width: 1060px;
+    height: 310px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}

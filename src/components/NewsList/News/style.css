@@ -1,0 +1,74 @@
+.mid {
+    gap: 48px;
+
+    width: 693px;
+    height: 156px;
+}
+
+.avatar {
+    width: 24px;
+    height: 24px;
+}
+
+.opacity50 {
+    opacity: 50%;
+}
+
+.tips {
+    width: 693px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+}
+
+.python {
+    width: 693px;
+    height: 44px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.newsBtn button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 16px;
+    gap: 8px;
+
+    width: 107px;
+    height: 30px;
+    border: 0px;
+
+    background: linear-gradient(0deg, rgba(8, 30, 52, 0.12), rgba(8, 30, 52, 0.12)), #FFFBFE;
+    border-radius: 100px;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.newsBtn p {
+    padding: 3px;
+    opacity: 50%;
+}
+
+.actions {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 14px;
+
+    width: 100px;
+    height: 24px;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+
+    background: #E1E0E6;
+}

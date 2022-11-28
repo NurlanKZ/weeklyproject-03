@@ -1,0 +1,16 @@
+.header {
+    align-items: center;
+    padding: 24px 0px;
+    gap: 752px;
+    
+    width: 1120px;
+    height: 70px;
+}
+
+.header p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    text-transform: lowercase;
+}
